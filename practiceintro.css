@@ -1,0 +1,60 @@
+/*
+CSS for nrt.gxstudios.net/practiceintro.php
+*/
+
+/* General Rules */
+
+div.explanation {
+  border: 2px solid black;
+  border-radius: 25px;
+  font-size: 16pt;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 600px;
+}
+
+div.rundiv {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  text-align: center;
+  width: 600px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input.run {
+  font-size: 28pt;
+}
+
+table.numberstable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td.number {
+  background-color: #009900;
+  color: #ffffff;
+  font-size: 28pt;
+  padding: 10px;
+}
+
+td.usednumber {
+  background-color: #990000;
+  color: #ffffff;
+  font-size: 28pt;
+  padding: 10px;
+}
+
+/* Rules for the practiceintroimg img */
+
+#practiceintroimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+}

@@ -1,0 +1,91 @@
+/*
+CSS for nrt.gxstudios.net/test.php
+*/
+
+/* General Rules */
+
+input.choice {
+  font-size: 28pt;
+}
+
+input.workingnumber {
+  font-size: 28pt;
+  margin: 1px;
+  text-align: center;
+  width: 35px;
+}
+
+td.choice {
+  padding: 10px;
+}
+
+td.einter {
+  background-color: #999900;
+  color: #ffffff;
+  font-size: 28pt;
+  padding: 10px;
+}
+
+td.eresult {
+  background-color: #990000;
+  color: #ffffff;
+  font-size: 28pt;
+  padding: 10px;
+}
+
+td.number {
+  background-color: #009900;
+  color: #ffffff;
+  font-size: 28pt;
+  padding: 10px;
+}
+
+div.numbers {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table.numberstable {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Rules for the choicediv div */
+
+#choicediv {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#choicedivp {
+  font-size: 20pt;
+}
+
+#choicetable {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Rules for the enumbers div */
+
+#enumbers {
+  display: none;
+}
+
+/* Rules for the progress div */
+
+#progress {
+  font-size: 28pt;
+}
+
+/* Rules for the toggleexplanation button */
+
+#toggleexplanation {
+  font-size: 16pt;
+}

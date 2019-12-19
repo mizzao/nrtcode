@@ -1,0 +1,38 @@
+/*
+CSS for nrt.gxstudios.net/admin/index.php
+*/
+
+/* General Rules */
+
+input.go {
+  font-size: 16pt;
+}
+
+select {
+  font-size: 16pt;
+}
+
+td {
+  font-size: 16pt;
+  padding: 10px;
+}
+
+/* Rules for the fields div */
+
+#fields {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+/* Rules for the title div */
+
+#title {
+  background-color: #000055;
+  color: #ffffff;
+  font-size: 28pt;
+  text-align: center;
+}

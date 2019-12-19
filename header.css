@@ -1,0 +1,33 @@
+/*
+CSS for nrt.gxstudios.net/header.php
+*/
+
+/* General Rules */
+
+body, html {
+  height: 100%;
+}
+
+input.home {
+  font-size: 28pt;
+}
+
+/* Rules for the navigation div */
+
+#navigation {
+  width: 200px;
+  margin-left: auto;
+  margin-right: 0px;
+  text-align: right;
+}
+
+/* Rules for the title div */
+
+#title {
+  background-color: #000055;
+  color: #ffffff;
+  font-size: 28pt;
+  line-height: 32pt;
+  height: 32pt;
+  text-align: center;
+}
